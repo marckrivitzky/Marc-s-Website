@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.marc-image{
+position: relative;
+top: 20px;
+left: 140px;
+border-radius: 50%;
+}
+
+.marc-title-card-description{
+font-weight: bold;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home-page-card{
+position: relative;
+border: 10px solid  darkblue;
+border-radius: 30px;
+width: 484px;
+height: 841px;
+left: 520px;
+}
+
+.marc-title-card-name{
+color:darkblue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.marc-title-card-job{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(19, 13, 6);
+font-weight: bold;
+}
+.project-weed-store{
+border: 10px solid  darkblue;
+padding: 8px;
+height: 600px;
+width: 320px;
+background-color: rgb(107, 224, 123);
+background-color:mediumaquamarine ;
+border-radius: 30px;
+}
+
+
+
+.project-images{
+border-radius: 30px;
+position: relative;
+border: 7px solid  darkblue;
+
+}
+
+.project-images:hover{
+ transform: scale(1.3);
+}
+
+.resume-image{
+border-radius: 30px;
+position: relative;
+border: 7px solid  darkblue;
+}
+
+
+
+.coding-projects{
+position: relative;
+left: 90px;
+}
+
+
+.coding-project-description{
+font-size: smaller;
+font-weight: bold;
+
+}
+
+#bottom-page-info{
+background-color: black;
+height: 250px;
+color: white;
+
+}
+
+.why-us{
+color: darkblue;
+}
+
+.projects-link:hover{
+ transform: scale(1.3);
+
+}
+
+#drawing-1:hover{
+transform: scale(1.45);
+}
+#drawing-2:hover{
+transform: scale(1.45);
+}
+#drawing-3:hover{
+transform: scale(1.45);
+}
+#drawing-4:hover{
+transform: scale(1.45);
+}
+#drawing-5:hover{
+transform: scale(1.45);
+}
+#drawing-6:hover{
+transform: scale(1.45);
+}
+#drawing-7:hover{
+transform: scale(1.45);
+}
+#drawing-8:hover{
+transform: scale(1.45);
+}
+#drawing-9:hover{
+transform: scale(1.45);
+}
+
+.art-title{
+position: relative;
+border-radius: 30px;
+color: darkblue;
+background-color: darkgray;
+width: 400px;
+height: 45px;
+left: 560px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#tic-tac-toe{
+position: relative;
+border: 10px solid  darkblue;
+width: 300px;
+height: 300px;
+}
+
+.winner{
+position: relative;
+border-radius: 30px;
+color: darkblue;
+background-color: darkgray;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+width: 300px;
+left: 604px;
+}
+
+.whos-turn{
+color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.directions{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.directions-description{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.modal-directions2{
+text-align: center;
+}
+
+.link-to-resume{
+position: relative;
+color: white;
+
+}
